@@ -1,0 +1,21 @@
+CMakeFiles/project.elf.dir/Core/Src/sysmem.c.obj: \
+ D:\RoboMaster\code\XTYF\Standard-2026\project\Core\Src\sysmem.c \
+ D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/errno.h \
+ D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/sys/errno.h \
+ D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/sys/reent.h \
+ D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/_ansi.h \
+ D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/newlib.h \
+ D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/_newlib_version.h \
+ D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/sys/config.h \
+ D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/machine/ieeefp.h \
+ D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/sys/features.h \
+ D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/lib/gcc/arm-none-eabi/13.3.1/include/stddef.h \
+ D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/sys/cdefs.h \
+ D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/machine/_default_types.h \
+ D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/sys/_types.h \
+ D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/machine/_types.h \
+ D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/sys/lock.h \
+ D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/lib/gcc/arm-none-eabi/13.3.1/include/stdint.h \
+ D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/stdint.h \
+ D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/sys/_intsup.h \
+ D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/sys/_stdint.h
