@@ -5,12 +5,14 @@
  *
  * @param huart 指定的UART
  */
-void Class_DR16::Init(UART_HandleTypeDef *huart)
+void Class_DR16::Init(UART_HandleTypeDef *huart, UART_Call_Back Callback_Function, uint16_t Rx_Buffer_Length)
 {
     if (huart->Instance == UART5)
     {
         UART_Manage_Object = &UART5_Manage_Object;
     }
+
+    UART_Init(huart, Callback_Function, Rx_Buffer_Length);
 }
 
 /**

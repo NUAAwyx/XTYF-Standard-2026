@@ -97,6 +97,7 @@ int main(void)
   MX_DMA_Init();
   MX_FDCAN1_Init();
   MX_UART5_Init();
+  MX_USART1_UART_Init();
   /* USER CODE BEGIN 2 */
   Task_Init();
   /* USER CODE END 2 */
@@ -105,6 +106,7 @@ int main(void)
   /* USER CODE BEGIN WHILE */
   while (1)
   {
+    Task();
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */

@@ -23,9 +23,9 @@ enum Enum_Cmd_Type
 class Class_VOFA
 {
 public:
-    void Init(UART_HandleTypeDef* huart, float* data, uint8_t num);
+    void Init(UART_HandleTypeDef *huart, UART_Call_Back Callback_Function, uint16_t Rx_Buffer_Length);
 
-    void Send();
+    void Send(float *data ,uint8_t num);
 
     void UART_RxCpltCallback(uint8_t* Rx_Data, uint16_t Length);
 

@@ -4,11 +4,8 @@
  * @brief 遥控器VOFA初始化
  *
  * @param huart 指定的UART
- * @param data  数据
- * @param num   数据个数
- *
  */
-void Class_VOFA::Init(UART_HandleTypeDef *huart,float *data, uint8_t num)
+void Class_VOFA::Init(UART_HandleTypeDef *huart, UART_Call_Back Callback_Function, uint16_t Rx_Buffer_Length)
 {
     if (huart->Instance == USART1)
     {
@@ -51,10 +48,7 @@ void Class_VOFA::Init(UART_HandleTypeDef *huart,float *data, uint8_t num)
         UART_Manage_Object = &USART10_Manage_Object;
     }
 
-    // 绑定数据
-    memcpy(Data, data, sizeof(float) * num);
-    // 绑定数据个数
-    Num = num;
+    UART_Init(huart, Callback_Function, Rx_Buffer_Length);
 }
 
 /**
@@ -80,8 +74,13 @@ void Class_VOFA::Output()
  * @brief 发送绘图数据
  *
  */
-void Class_VOFA::Send()
+void Class_VOFA::Send(float *data ,uint8_t num)
 {
+    // 绑定数据
+    memcpy(Data, data, sizeof(float) * num);
+    // 绑定数据个数
+    Num = num;
+
     Output();
 
     UART_Send_Data(UART_Manage_Object->UART_Handler, UART_Manage_Object->Tx_Buffer, 4 * Num + 4);

@@ -116,7 +116,7 @@ struct Struct_DR16_Data
 class Class_DR16
 {
 public:
-    void Init(UART_HandleTypeDef *huart);
+    void Init(UART_HandleTypeDef *huart, UART_Call_Back Callback_Function, uint16_t Rx_Buffer_Length);
 
     inline Enum_DR16_Status Get_Status();
 

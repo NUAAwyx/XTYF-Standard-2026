@@ -990,6 +990,7 @@ CMakeFiles/project.elf.dir/Core/XTYF/Robot/Task/task.cpp.obj: D:/RoboMaster/code
   D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/13.3.1/bits/stl_pair.h \
   D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/13.3.1/bits/utility.h \
   D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/13.3.1/cmath \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/13.3.1/cstdlib \
   D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/13.3.1/cstring \
   D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/13.3.1/debug/assertions.h \
   D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/13.3.1/debug/debug.h \
@@ -1033,10 +1034,12 @@ CMakeFiles/project.elf.dir/Core/XTYF/Robot/Task/task.cpp.obj: D:/RoboMaster/code
   D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/sys/string.h \
   D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/lib/gcc/arm-none-eabi/13.3.1/include/stddef.h \
   D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/lib/gcc/arm-none-eabi/13.3.1/include/stdint.h \
-  D:/RoboMaster/code/XTYF/Standard-2026/project/Core/Inc/fdcan.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Core/Inc/main.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Core/Inc/stm32h7xx_hal_conf.h \
-  D:/RoboMaster/code/XTYF/Standard-2026/project/Core/XTYF/Lib/Driver/CAN/drv_can.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Core/Inc/usart.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Core/XTYF/Lib/Device/DR16/dvc_dr16.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Core/XTYF/Lib/Device/VOFA/dvc_vofa.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Core/XTYF/Lib/Driver/USART/drv_usart.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Core/XTYF/Robot/Task/task.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/CMSIS/Device/ST/STM32H7xx/Include/stm32h723xx.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/CMSIS/Device/ST/STM32H7xx/Include/stm32h7xx.h \
