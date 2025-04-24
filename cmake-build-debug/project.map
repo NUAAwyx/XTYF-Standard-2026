@@ -3674,7 +3674,7 @@ LOAD D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-e
 LOAD D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+fp/hard\libm.a
 LOAD D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+fp/hard\libgcc.a
 
-.debug_info     0x00000000    0x1c8f0
+.debug_info     0x00000000    0x1b1be
  .debug_info    0x00000000      0x843 CMakeFiles/project.elf.dir/Core/Src/dma.c.obj
  .debug_info    0x00000843     0x1640 CMakeFiles/project.elf.dir/Core/Src/fdcan.c.obj
  .debug_info    0x00001e83      0x4af CMakeFiles/project.elf.dir/Core/Src/gpio.c.obj
@@ -3685,19 +3685,19 @@ LOAD D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-e
  .debug_info    0x00004a69     0x16ea CMakeFiles/project.elf.dir/Core/Src/usart.c.obj
  .debug_info    0x00006153       0x30 CMakeFiles/project.elf.dir/Core/Startup/startup_stm32h723vgtx.s.obj
  .debug_info    0x00006183     0x2712 CMakeFiles/project.elf.dir/Core/XTYF/Lib/Driver/USART/drv_usart.cpp.obj
- .debug_info    0x00008895     0x1792 CMakeFiles/project.elf.dir/Core/XTYF/Robot/Task/task.cpp.obj
- .debug_info    0x0000a027     0x1796 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
- .debug_info    0x0000b7bd     0x130e CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
- .debug_info    0x0000cacb      0xe90 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma.c.obj
- .debug_info    0x0000d95b     0x3275 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_fdcan.c.obj
- .debug_info    0x00010bd0      0xca7 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj
- .debug_info    0x00011877      0xf2c CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
- .debug_info    0x000127a3     0x1046 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
- .debug_info    0x000137e9     0x1984 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
- .debug_info    0x0001516d     0x655d CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
- .debug_info    0x0001b6ca     0x1226 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj
+ .debug_info    0x00008895       0x60 CMakeFiles/project.elf.dir/Core/XTYF/Robot/Task/task.cpp.obj
+ .debug_info    0x000088f5     0x1796 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+ .debug_info    0x0000a08b     0x130e CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
+ .debug_info    0x0000b399      0xe90 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma.c.obj
+ .debug_info    0x0000c229     0x3275 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_fdcan.c.obj
+ .debug_info    0x0000f49e      0xca7 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj
+ .debug_info    0x00010145      0xf2c CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
+ .debug_info    0x00011071     0x1046 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
+ .debug_info    0x000120b7     0x1984 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
+ .debug_info    0x00013a3b     0x655d CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
+ .debug_info    0x00019f98     0x1226 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj
 
-.debug_abbrev   0x00000000     0x2e43
+.debug_abbrev   0x00000000     0x2cf9
  .debug_abbrev  0x00000000      0x13b CMakeFiles/project.elf.dir/Core/Src/dma.c.obj
  .debug_abbrev  0x0000013b      0x225 CMakeFiles/project.elf.dir/Core/Src/fdcan.c.obj
  .debug_abbrev  0x00000360       0xe6 CMakeFiles/project.elf.dir/Core/Src/gpio.c.obj
@@ -3708,17 +3708,17 @@ LOAD D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-e
  .debug_abbrev  0x00000a46      0x271 CMakeFiles/project.elf.dir/Core/Src/usart.c.obj
  .debug_abbrev  0x00000cb7       0x24 CMakeFiles/project.elf.dir/Core/Startup/startup_stm32h723vgtx.s.obj
  .debug_abbrev  0x00000cdb      0x32c CMakeFiles/project.elf.dir/Core/XTYF/Lib/Driver/USART/drv_usart.cpp.obj
- .debug_abbrev  0x00001007      0x195 CMakeFiles/project.elf.dir/Core/XTYF/Robot/Task/task.cpp.obj
- .debug_abbrev  0x0000119c      0x2c3 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
- .debug_abbrev  0x0000145f      0x3ad CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
- .debug_abbrev  0x0000180c      0x29c CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma.c.obj
- .debug_abbrev  0x00001aa8      0x2be CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_fdcan.c.obj
- .debug_abbrev  0x00001d66      0x255 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj
- .debug_abbrev  0x00001fbb      0x2b5 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
- .debug_abbrev  0x00002270      0x294 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
- .debug_abbrev  0x00002504      0x282 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
- .debug_abbrev  0x00002786      0x37a CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
- .debug_abbrev  0x00002b00      0x343 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj
+ .debug_abbrev  0x00001007       0x4b CMakeFiles/project.elf.dir/Core/XTYF/Robot/Task/task.cpp.obj
+ .debug_abbrev  0x00001052      0x2c3 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+ .debug_abbrev  0x00001315      0x3ad CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
+ .debug_abbrev  0x000016c2      0x29c CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma.c.obj
+ .debug_abbrev  0x0000195e      0x2be CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_fdcan.c.obj
+ .debug_abbrev  0x00001c1c      0x255 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj
+ .debug_abbrev  0x00001e71      0x2b5 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
+ .debug_abbrev  0x00002126      0x294 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
+ .debug_abbrev  0x000023ba      0x282 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
+ .debug_abbrev  0x0000263c      0x37a CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
+ .debug_abbrev  0x000029b6      0x343 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj
 
 .debug_aranges  0x00000000      0xee0
  .debug_aranges
@@ -3809,7 +3809,7 @@ LOAD D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-e
  .debug_rnglists
                 0x00000b40       0x88 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj
 
-.debug_line     0x00000000    0x1396b
+.debug_line     0x00000000    0x1360e
  .debug_line    0x00000000      0x20b CMakeFiles/project.elf.dir/Core/Src/dma.c.obj
  .debug_line    0x0000020b      0x498 CMakeFiles/project.elf.dir/Core/Src/fdcan.c.obj
  .debug_line    0x000006a3      0x1b3 CMakeFiles/project.elf.dir/Core/Src/gpio.c.obj
@@ -3820,17 +3820,17 @@ LOAD D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-e
  .debug_line    0x000017c5      0x4e9 CMakeFiles/project.elf.dir/Core/Src/usart.c.obj
  .debug_line    0x00001cae       0x7b CMakeFiles/project.elf.dir/Core/Startup/startup_stm32h723vgtx.s.obj
  .debug_line    0x00001d29      0x95b CMakeFiles/project.elf.dir/Core/XTYF/Lib/Driver/USART/drv_usart.cpp.obj
- .debug_line    0x00002684      0x3ed CMakeFiles/project.elf.dir/Core/XTYF/Robot/Task/task.cpp.obj
- .debug_line    0x00002a71      0xa2f CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
- .debug_line    0x000034a0      0x8e5 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
- .debug_line    0x00003d85     0x247f CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma.c.obj
- .debug_line    0x00006204     0x3460 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_fdcan.c.obj
- .debug_line    0x00009664      0x77f CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj
- .debug_line    0x00009de3      0xaee CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
- .debug_line    0x0000a8d1     0x139f CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
- .debug_line    0x0000bc70     0x1f20 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
- .debug_line    0x0000db90     0x52a0 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
- .debug_line    0x00012e30      0xb3b CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj
+ .debug_line    0x00002684       0x90 CMakeFiles/project.elf.dir/Core/XTYF/Robot/Task/task.cpp.obj
+ .debug_line    0x00002714      0xa2f CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+ .debug_line    0x00003143      0x8e5 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
+ .debug_line    0x00003a28     0x247f CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma.c.obj
+ .debug_line    0x00005ea7     0x3460 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_fdcan.c.obj
+ .debug_line    0x00009307      0x77f CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj
+ .debug_line    0x00009a86      0xaee CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
+ .debug_line    0x0000a574     0x139f CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
+ .debug_line    0x0000b913     0x1f20 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
+ .debug_line    0x0000d833     0x52a0 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
+ .debug_line    0x00012ad3      0xb3b CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj
 
 .debug_str      0x00000000     0x70fb
  .debug_str     0x00000000     0x70fb CMakeFiles/project.elf.dir/Core/Src/dma.c.obj
@@ -3844,7 +3844,7 @@ LOAD D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-e
  .debug_str     0x000070fb     0x1717 CMakeFiles/project.elf.dir/Core/Src/usart.c.obj
  .debug_str     0x000070fb       0xaf CMakeFiles/project.elf.dir/Core/Startup/startup_stm32h723vgtx.s.obj
  .debug_str     0x000070fb     0x1645 CMakeFiles/project.elf.dir/Core/XTYF/Lib/Driver/USART/drv_usart.cpp.obj
- .debug_str     0x000070fb      0xcfc CMakeFiles/project.elf.dir/Core/XTYF/Robot/Task/task.cpp.obj
+ .debug_str     0x000070fb      0x175 CMakeFiles/project.elf.dir/Core/XTYF/Robot/Task/task.cpp.obj
  .debug_str     0x000070fb     0x15f1 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
  .debug_str     0x000070fb     0x1096 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
  .debug_str     0x000070fb      0x9ae CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma.c.obj
