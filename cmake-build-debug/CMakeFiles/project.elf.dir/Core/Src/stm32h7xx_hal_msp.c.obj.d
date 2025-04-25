@@ -49,5 +49,7 @@ CMakeFiles/project.elf.dir/Core/Src/stm32h7xx_hal_msp.c.obj: \
  D:\RoboMaster\code\XTYF\Standard-2026\project\Drivers\STM32H7xx_HAL_Driver\Inc/stm32h7xx_hal_i2c_ex.h \
  D:\RoboMaster\code\XTYF\Standard-2026\project\Drivers\STM32H7xx_HAL_Driver\Inc/stm32h7xx_hal_pwr.h \
  D:\RoboMaster\code\XTYF\Standard-2026\project\Drivers\STM32H7xx_HAL_Driver\Inc/stm32h7xx_hal_pwr_ex.h \
+ D:\RoboMaster\code\XTYF\Standard-2026\project\Drivers\STM32H7xx_HAL_Driver\Inc/stm32h7xx_hal_spi.h \
+ D:\RoboMaster\code\XTYF\Standard-2026\project\Drivers\STM32H7xx_HAL_Driver\Inc/stm32h7xx_hal_spi_ex.h \
  D:\RoboMaster\code\XTYF\Standard-2026\project\Drivers\STM32H7xx_HAL_Driver\Inc/stm32h7xx_hal_uart.h \
  D:\RoboMaster\code\XTYF\Standard-2026\project\Drivers\STM32H7xx_HAL_Driver\Inc/stm32h7xx_hal_uart_ex.h

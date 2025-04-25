@@ -6,19 +6,19 @@
 # compile CXX with D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-g++.exe
 ASM_DEFINES = -DARM_MATH_CM4 -DARM_MATH_MATRIX_CHECK -DARM_MATH_ROUNDING -DDEBUG -DSTM32H723xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY
 
-ASM_INCLUDES = -ID:\RoboMaster\code\XTYF\Standard-2026\project\Core\Inc -ID:\RoboMaster\code\XTYF\Standard-2026\project\Drivers\STM32H7xx_HAL_Driver\Inc -ID:\RoboMaster\code\XTYF\Standard-2026\project\Drivers\STM32H7xx_HAL_Driver\Inc\Legacy -ID:\RoboMaster\code\XTYF\Standard-2026\project\Drivers\CMSIS\Device\ST\STM32H7xx\Include -ID:\RoboMaster\code\XTYF\Standard-2026\project\Drivers\CMSIS\Include -ID:\RoboMaster\code\XTYF\Standard-2026\project\Core\XTYF
+ASM_INCLUDES = -ID:\RoboMaster\code\XTYF\Standard-2026\project\Core\Inc -ID:\RoboMaster\code\XTYF\Standard-2026\project\Drivers\STM32H7xx_HAL_Driver\Inc -ID:\RoboMaster\code\XTYF\Standard-2026\project\Drivers\STM32H7xx_HAL_Driver\Inc\Legacy -ID:\RoboMaster\code\XTYF\Standard-2026\project\Drivers\CMSIS\Device\ST\STM32H7xx\Include -ID:\RoboMaster\code\XTYF\Standard-2026\project\Drivers\CMSIS\Include -ID:\RoboMaster\code\XTYF\Standard-2026\project\Middlewares\ST\ARM\DSP\Inc -ID:\RoboMaster\code\XTYF\Standard-2026\project\Core\XTYF
 
 ASM_FLAGS = -g -mfloat-abi=hard -mfpu=fpv4-sp-d16 -mcpu=cortex-m7 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -x assembler-with-cpp -Og -g
 
 C_DEFINES = -DARM_MATH_CM4 -DARM_MATH_MATRIX_CHECK -DARM_MATH_ROUNDING -DDEBUG -DSTM32H723xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY
 
-C_INCLUDES = -ID:\RoboMaster\code\XTYF\Standard-2026\project\Core\Inc -ID:\RoboMaster\code\XTYF\Standard-2026\project\Drivers\STM32H7xx_HAL_Driver\Inc -ID:\RoboMaster\code\XTYF\Standard-2026\project\Drivers\STM32H7xx_HAL_Driver\Inc\Legacy -ID:\RoboMaster\code\XTYF\Standard-2026\project\Drivers\CMSIS\Device\ST\STM32H7xx\Include -ID:\RoboMaster\code\XTYF\Standard-2026\project\Drivers\CMSIS\Include -ID:\RoboMaster\code\XTYF\Standard-2026\project\Core\XTYF
+C_INCLUDES = -ID:\RoboMaster\code\XTYF\Standard-2026\project\Core\Inc -ID:\RoboMaster\code\XTYF\Standard-2026\project\Drivers\STM32H7xx_HAL_Driver\Inc -ID:\RoboMaster\code\XTYF\Standard-2026\project\Drivers\STM32H7xx_HAL_Driver\Inc\Legacy -ID:\RoboMaster\code\XTYF\Standard-2026\project\Drivers\CMSIS\Device\ST\STM32H7xx\Include -ID:\RoboMaster\code\XTYF\Standard-2026\project\Drivers\CMSIS\Include -ID:\RoboMaster\code\XTYF\Standard-2026\project\Middlewares\ST\ARM\DSP\Inc -ID:\RoboMaster\code\XTYF\Standard-2026\project\Core\XTYF
 
 C_FLAGS = -g -std=gnu11 -fdiagnostics-color=always -mfloat-abi=hard -mfpu=fpv4-sp-d16 -mcpu=cortex-m7 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
 
 CXX_DEFINES = -DARM_MATH_CM4 -DARM_MATH_MATRIX_CHECK -DARM_MATH_ROUNDING -DDEBUG -DSTM32H723xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY
 
-CXX_INCLUDES = -ID:\RoboMaster\code\XTYF\Standard-2026\project\Core\Inc -ID:\RoboMaster\code\XTYF\Standard-2026\project\Drivers\STM32H7xx_HAL_Driver\Inc -ID:\RoboMaster\code\XTYF\Standard-2026\project\Drivers\STM32H7xx_HAL_Driver\Inc\Legacy -ID:\RoboMaster\code\XTYF\Standard-2026\project\Drivers\CMSIS\Device\ST\STM32H7xx\Include -ID:\RoboMaster\code\XTYF\Standard-2026\project\Drivers\CMSIS\Include -ID:\RoboMaster\code\XTYF\Standard-2026\project\Core\XTYF
+CXX_INCLUDES = -ID:\RoboMaster\code\XTYF\Standard-2026\project\Core\Inc -ID:\RoboMaster\code\XTYF\Standard-2026\project\Drivers\STM32H7xx_HAL_Driver\Inc -ID:\RoboMaster\code\XTYF\Standard-2026\project\Drivers\STM32H7xx_HAL_Driver\Inc\Legacy -ID:\RoboMaster\code\XTYF\Standard-2026\project\Drivers\CMSIS\Device\ST\STM32H7xx\Include -ID:\RoboMaster\code\XTYF\Standard-2026\project\Drivers\CMSIS\Include -ID:\RoboMaster\code\XTYF\Standard-2026\project\Middlewares\ST\ARM\DSP\Inc -ID:\RoboMaster\code\XTYF\Standard-2026\project\Core\XTYF
 
 CXX_FLAGS = -g -fdiagnostics-color=always -mfloat-abi=hard -mfpu=fpv4-sp-d16 -mcpu=cortex-m7 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
 

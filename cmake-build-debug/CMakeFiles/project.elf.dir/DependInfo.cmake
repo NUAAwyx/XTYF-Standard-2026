@@ -30,6 +30,7 @@ set(CMAKE_ASM_TARGET_INCLUDE_PATH
   "D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/Legacy"
   "D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/CMSIS/Device/ST/STM32H7xx/Include"
   "D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/CMSIS/Include"
+  "D:/RoboMaster/code/XTYF/Standard-2026/project/Middlewares/ST/ARM/DSP/Inc"
   "D:/RoboMaster/code/XTYF/Standard-2026/project/Core/XTYF"
   )
 
@@ -40,6 +41,7 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "D:/RoboMaster/code/XTYF/Standard-2026/project/Core/Src/gpio.c" "CMakeFiles/project.elf.dir/Core/Src/gpio.c.obj" "gcc" "CMakeFiles/project.elf.dir/Core/Src/gpio.c.obj.d"
   "D:/RoboMaster/code/XTYF/Standard-2026/project/Core/Src/main.c" "CMakeFiles/project.elf.dir/Core/Src/main.c.obj" "gcc" "CMakeFiles/project.elf.dir/Core/Src/main.c.obj.d"
   "D:/RoboMaster/code/XTYF/Standard-2026/project/Core/Src/memorymap.c" "CMakeFiles/project.elf.dir/Core/Src/memorymap.c.obj" "gcc" "CMakeFiles/project.elf.dir/Core/Src/memorymap.c.obj.d"
+  "D:/RoboMaster/code/XTYF/Standard-2026/project/Core/Src/spi.c" "CMakeFiles/project.elf.dir/Core/Src/spi.c.obj" "gcc" "CMakeFiles/project.elf.dir/Core/Src/spi.c.obj.d"
   "D:/RoboMaster/code/XTYF/Standard-2026/project/Core/Src/stm32h7xx_hal_msp.c" "CMakeFiles/project.elf.dir/Core/Src/stm32h7xx_hal_msp.c.obj" "gcc" "CMakeFiles/project.elf.dir/Core/Src/stm32h7xx_hal_msp.c.obj.d"
   "D:/RoboMaster/code/XTYF/Standard-2026/project/Core/Src/stm32h7xx_it.c" "CMakeFiles/project.elf.dir/Core/Src/stm32h7xx_it.c.obj" "gcc" "CMakeFiles/project.elf.dir/Core/Src/stm32h7xx_it.c.obj.d"
   "D:/RoboMaster/code/XTYF/Standard-2026/project/Core/Src/syscalls.c" "CMakeFiles/project.elf.dir/Core/Src/syscalls.c.obj" "gcc" "CMakeFiles/project.elf.dir/Core/Src/syscalls.c.obj.d"
@@ -63,12 +65,15 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c" "CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj" "gcc" "CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj.d"
   "D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c" "CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj" "gcc" "CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj.d"
   "D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c" "CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj" "gcc" "CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj.d"
+  "D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_spi.c" "CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_spi.c.obj" "gcc" "CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_spi.c.obj.d"
+  "D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_spi_ex.c" "CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_spi_ex.c.obj" "gcc" "CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_spi_ex.c.obj.d"
   "D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c" "CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj" "gcc" "CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj.d"
   "D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c" "CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj" "gcc" "CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj.d"
   "D:/RoboMaster/code/XTYF/Standard-2026/project/Core/XTYF/Lib/Device/BMI088/dvc_bmi088.cpp" "CMakeFiles/project.elf.dir/Core/XTYF/Lib/Device/BMI088/dvc_bmi088.cpp.obj" "gcc" "CMakeFiles/project.elf.dir/Core/XTYF/Lib/Device/BMI088/dvc_bmi088.cpp.obj.d"
   "D:/RoboMaster/code/XTYF/Standard-2026/project/Core/XTYF/Lib/Device/DR16/dvc_dr16.cpp" "CMakeFiles/project.elf.dir/Core/XTYF/Lib/Device/DR16/dvc_dr16.cpp.obj" "gcc" "CMakeFiles/project.elf.dir/Core/XTYF/Lib/Device/DR16/dvc_dr16.cpp.obj.d"
   "D:/RoboMaster/code/XTYF/Standard-2026/project/Core/XTYF/Lib/Device/VOFA/dvc_vofa.cpp" "CMakeFiles/project.elf.dir/Core/XTYF/Lib/Device/VOFA/dvc_vofa.cpp.obj" "gcc" "CMakeFiles/project.elf.dir/Core/XTYF/Lib/Device/VOFA/dvc_vofa.cpp.obj.d"
   "D:/RoboMaster/code/XTYF/Standard-2026/project/Core/XTYF/Lib/Driver/CAN/drv_can.cpp" "CMakeFiles/project.elf.dir/Core/XTYF/Lib/Driver/CAN/drv_can.cpp.obj" "gcc" "CMakeFiles/project.elf.dir/Core/XTYF/Lib/Driver/CAN/drv_can.cpp.obj.d"
+  "D:/RoboMaster/code/XTYF/Standard-2026/project/Core/XTYF/Lib/Driver/SPI/drv_spi.cpp" "CMakeFiles/project.elf.dir/Core/XTYF/Lib/Driver/SPI/drv_spi.cpp.obj" "gcc" "CMakeFiles/project.elf.dir/Core/XTYF/Lib/Driver/SPI/drv_spi.cpp.obj.d"
   "D:/RoboMaster/code/XTYF/Standard-2026/project/Core/XTYF/Lib/Driver/USART/drv_usart.cpp" "CMakeFiles/project.elf.dir/Core/XTYF/Lib/Driver/USART/drv_usart.cpp.obj" "gcc" "CMakeFiles/project.elf.dir/Core/XTYF/Lib/Driver/USART/drv_usart.cpp.obj.d"
   "D:/RoboMaster/code/XTYF/Standard-2026/project/Core/XTYF/Robot/Task/task.cpp" "CMakeFiles/project.elf.dir/Core/XTYF/Robot/Task/task.cpp.obj" "gcc" "CMakeFiles/project.elf.dir/Core/XTYF/Robot/Task/task.cpp.obj.d"
   )

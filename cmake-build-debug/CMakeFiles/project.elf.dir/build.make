@@ -141,10 +141,24 @@ CMakeFiles/project.elf.dir/Core/Src/memorymap.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/project.elf.dir/Core/Src/memorymap.c.s"
 	D:\ClionToolchains\gcc-arm-none-eabi-10.3-2021.10\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\RoboMaster\code\XTYF\Standard-2026\project\Core\Src\memorymap.c -o CMakeFiles\project.elf.dir\Core\Src\memorymap.c.s
 
+CMakeFiles/project.elf.dir/Core/Src/spi.c.obj: CMakeFiles/project.elf.dir/flags.make
+CMakeFiles/project.elf.dir/Core/Src/spi.c.obj: D:/RoboMaster/code/XTYF/Standard-2026/project/Core/Src/spi.c
+CMakeFiles/project.elf.dir/Core/Src/spi.c.obj: CMakeFiles/project.elf.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\RoboMaster\code\XTYF\Standard-2026\project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/project.elf.dir/Core/Src/spi.c.obj"
+	D:\ClionToolchains\gcc-arm-none-eabi-10.3-2021.10\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/project.elf.dir/Core/Src/spi.c.obj -MF CMakeFiles\project.elf.dir\Core\Src\spi.c.obj.d -o CMakeFiles\project.elf.dir\Core\Src\spi.c.obj -c D:\RoboMaster\code\XTYF\Standard-2026\project\Core\Src\spi.c
+
+CMakeFiles/project.elf.dir/Core/Src/spi.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/project.elf.dir/Core/Src/spi.c.i"
+	D:\ClionToolchains\gcc-arm-none-eabi-10.3-2021.10\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\RoboMaster\code\XTYF\Standard-2026\project\Core\Src\spi.c > CMakeFiles\project.elf.dir\Core\Src\spi.c.i
+
+CMakeFiles/project.elf.dir/Core/Src/spi.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/project.elf.dir/Core/Src/spi.c.s"
+	D:\ClionToolchains\gcc-arm-none-eabi-10.3-2021.10\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\RoboMaster\code\XTYF\Standard-2026\project\Core\Src\spi.c -o CMakeFiles\project.elf.dir\Core\Src\spi.c.s
+
 CMakeFiles/project.elf.dir/Core/Src/stm32h7xx_hal_msp.c.obj: CMakeFiles/project.elf.dir/flags.make
 CMakeFiles/project.elf.dir/Core/Src/stm32h7xx_hal_msp.c.obj: D:/RoboMaster/code/XTYF/Standard-2026/project/Core/Src/stm32h7xx_hal_msp.c
 CMakeFiles/project.elf.dir/Core/Src/stm32h7xx_hal_msp.c.obj: CMakeFiles/project.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\RoboMaster\code\XTYF\Standard-2026\project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/project.elf.dir/Core/Src/stm32h7xx_hal_msp.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\RoboMaster\code\XTYF\Standard-2026\project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/project.elf.dir/Core/Src/stm32h7xx_hal_msp.c.obj"
 	D:\ClionToolchains\gcc-arm-none-eabi-10.3-2021.10\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/project.elf.dir/Core/Src/stm32h7xx_hal_msp.c.obj -MF CMakeFiles\project.elf.dir\Core\Src\stm32h7xx_hal_msp.c.obj.d -o CMakeFiles\project.elf.dir\Core\Src\stm32h7xx_hal_msp.c.obj -c D:\RoboMaster\code\XTYF\Standard-2026\project\Core\Src\stm32h7xx_hal_msp.c
 
 CMakeFiles/project.elf.dir/Core/Src/stm32h7xx_hal_msp.c.i: cmake_force
@@ -158,7 +172,7 @@ CMakeFiles/project.elf.dir/Core/Src/stm32h7xx_hal_msp.c.s: cmake_force
 CMakeFiles/project.elf.dir/Core/Src/stm32h7xx_it.c.obj: CMakeFiles/project.elf.dir/flags.make
 CMakeFiles/project.elf.dir/Core/Src/stm32h7xx_it.c.obj: D:/RoboMaster/code/XTYF/Standard-2026/project/Core/Src/stm32h7xx_it.c
 CMakeFiles/project.elf.dir/Core/Src/stm32h7xx_it.c.obj: CMakeFiles/project.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\RoboMaster\code\XTYF\Standard-2026\project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/project.elf.dir/Core/Src/stm32h7xx_it.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\RoboMaster\code\XTYF\Standard-2026\project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/project.elf.dir/Core/Src/stm32h7xx_it.c.obj"
 	D:\ClionToolchains\gcc-arm-none-eabi-10.3-2021.10\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/project.elf.dir/Core/Src/stm32h7xx_it.c.obj -MF CMakeFiles\project.elf.dir\Core\Src\stm32h7xx_it.c.obj.d -o CMakeFiles\project.elf.dir\Core\Src\stm32h7xx_it.c.obj -c D:\RoboMaster\code\XTYF\Standard-2026\project\Core\Src\stm32h7xx_it.c
 
 CMakeFiles/project.elf.dir/Core/Src/stm32h7xx_it.c.i: cmake_force
@@ -172,7 +186,7 @@ CMakeFiles/project.elf.dir/Core/Src/stm32h7xx_it.c.s: cmake_force
 CMakeFiles/project.elf.dir/Core/Src/syscalls.c.obj: CMakeFiles/project.elf.dir/flags.make
 CMakeFiles/project.elf.dir/Core/Src/syscalls.c.obj: D:/RoboMaster/code/XTYF/Standard-2026/project/Core/Src/syscalls.c
 CMakeFiles/project.elf.dir/Core/Src/syscalls.c.obj: CMakeFiles/project.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\RoboMaster\code\XTYF\Standard-2026\project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/project.elf.dir/Core/Src/syscalls.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\RoboMaster\code\XTYF\Standard-2026\project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/project.elf.dir/Core/Src/syscalls.c.obj"
 	D:\ClionToolchains\gcc-arm-none-eabi-10.3-2021.10\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/project.elf.dir/Core/Src/syscalls.c.obj -MF CMakeFiles\project.elf.dir\Core\Src\syscalls.c.obj.d -o CMakeFiles\project.elf.dir\Core\Src\syscalls.c.obj -c D:\RoboMaster\code\XTYF\Standard-2026\project\Core\Src\syscalls.c
 
 CMakeFiles/project.elf.dir/Core/Src/syscalls.c.i: cmake_force
@@ -186,7 +200,7 @@ CMakeFiles/project.elf.dir/Core/Src/syscalls.c.s: cmake_force
 CMakeFiles/project.elf.dir/Core/Src/sysmem.c.obj: CMakeFiles/project.elf.dir/flags.make
 CMakeFiles/project.elf.dir/Core/Src/sysmem.c.obj: D:/RoboMaster/code/XTYF/Standard-2026/project/Core/Src/sysmem.c
 CMakeFiles/project.elf.dir/Core/Src/sysmem.c.obj: CMakeFiles/project.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\RoboMaster\code\XTYF\Standard-2026\project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/project.elf.dir/Core/Src/sysmem.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\RoboMaster\code\XTYF\Standard-2026\project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object CMakeFiles/project.elf.dir/Core/Src/sysmem.c.obj"
 	D:\ClionToolchains\gcc-arm-none-eabi-10.3-2021.10\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/project.elf.dir/Core/Src/sysmem.c.obj -MF CMakeFiles\project.elf.dir\Core\Src\sysmem.c.obj.d -o CMakeFiles\project.elf.dir\Core\Src\sysmem.c.obj -c D:\RoboMaster\code\XTYF\Standard-2026\project\Core\Src\sysmem.c
 
 CMakeFiles/project.elf.dir/Core/Src/sysmem.c.i: cmake_force
@@ -200,7 +214,7 @@ CMakeFiles/project.elf.dir/Core/Src/sysmem.c.s: cmake_force
 CMakeFiles/project.elf.dir/Core/Src/system_stm32h7xx.c.obj: CMakeFiles/project.elf.dir/flags.make
 CMakeFiles/project.elf.dir/Core/Src/system_stm32h7xx.c.obj: D:/RoboMaster/code/XTYF/Standard-2026/project/Core/Src/system_stm32h7xx.c
 CMakeFiles/project.elf.dir/Core/Src/system_stm32h7xx.c.obj: CMakeFiles/project.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\RoboMaster\code\XTYF\Standard-2026\project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object CMakeFiles/project.elf.dir/Core/Src/system_stm32h7xx.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\RoboMaster\code\XTYF\Standard-2026\project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object CMakeFiles/project.elf.dir/Core/Src/system_stm32h7xx.c.obj"
 	D:\ClionToolchains\gcc-arm-none-eabi-10.3-2021.10\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/project.elf.dir/Core/Src/system_stm32h7xx.c.obj -MF CMakeFiles\project.elf.dir\Core\Src\system_stm32h7xx.c.obj.d -o CMakeFiles\project.elf.dir\Core\Src\system_stm32h7xx.c.obj -c D:\RoboMaster\code\XTYF\Standard-2026\project\Core\Src\system_stm32h7xx.c
 
 CMakeFiles/project.elf.dir/Core/Src/system_stm32h7xx.c.i: cmake_force
@@ -214,7 +228,7 @@ CMakeFiles/project.elf.dir/Core/Src/system_stm32h7xx.c.s: cmake_force
 CMakeFiles/project.elf.dir/Core/Src/usart.c.obj: CMakeFiles/project.elf.dir/flags.make
 CMakeFiles/project.elf.dir/Core/Src/usart.c.obj: D:/RoboMaster/code/XTYF/Standard-2026/project/Core/Src/usart.c
 CMakeFiles/project.elf.dir/Core/Src/usart.c.obj: CMakeFiles/project.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\RoboMaster\code\XTYF\Standard-2026\project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object CMakeFiles/project.elf.dir/Core/Src/usart.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\RoboMaster\code\XTYF\Standard-2026\project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building C object CMakeFiles/project.elf.dir/Core/Src/usart.c.obj"
 	D:\ClionToolchains\gcc-arm-none-eabi-10.3-2021.10\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/project.elf.dir/Core/Src/usart.c.obj -MF CMakeFiles\project.elf.dir\Core\Src\usart.c.obj.d -o CMakeFiles\project.elf.dir\Core\Src\usart.c.obj -c D:\RoboMaster\code\XTYF\Standard-2026\project\Core\Src\usart.c
 
 CMakeFiles/project.elf.dir/Core/Src/usart.c.i: cmake_force
@@ -227,7 +241,7 @@ CMakeFiles/project.elf.dir/Core/Src/usart.c.s: cmake_force
 
 CMakeFiles/project.elf.dir/Core/Startup/startup_stm32h723vgtx.s.obj: CMakeFiles/project.elf.dir/flags.make
 CMakeFiles/project.elf.dir/Core/Startup/startup_stm32h723vgtx.s.obj: D:/RoboMaster/code/XTYF/Standard-2026/project/Core/Startup/startup_stm32h723vgtx.s
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\RoboMaster\code\XTYF\Standard-2026\project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building ASM object CMakeFiles/project.elf.dir/Core/Startup/startup_stm32h723vgtx.s.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\RoboMaster\code\XTYF\Standard-2026\project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building ASM object CMakeFiles/project.elf.dir/Core/Startup/startup_stm32h723vgtx.s.obj"
 	D:\ClionToolchains\gcc-arm-none-eabi-10.3-2021.10\bin\arm-none-eabi-gcc.exe $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles\project.elf.dir\Core\Startup\startup_stm32h723vgtx.s.obj -c D:\RoboMaster\code\XTYF\Standard-2026\project\Core\Startup\startup_stm32h723vgtx.s
 
 CMakeFiles/project.elf.dir/Core/Startup/startup_stm32h723vgtx.s.i: cmake_force
@@ -241,7 +255,7 @@ CMakeFiles/project.elf.dir/Core/Startup/startup_stm32h723vgtx.s.s: cmake_force
 CMakeFiles/project.elf.dir/Core/XTYF/Lib/Device/BMI088/dvc_bmi088.cpp.obj: CMakeFiles/project.elf.dir/flags.make
 CMakeFiles/project.elf.dir/Core/XTYF/Lib/Device/BMI088/dvc_bmi088.cpp.obj: D:/RoboMaster/code/XTYF/Standard-2026/project/Core/XTYF/Lib/Device/BMI088/dvc_bmi088.cpp
 CMakeFiles/project.elf.dir/Core/XTYF/Lib/Device/BMI088/dvc_bmi088.cpp.obj: CMakeFiles/project.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\RoboMaster\code\XTYF\Standard-2026\project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/project.elf.dir/Core/XTYF/Lib/Device/BMI088/dvc_bmi088.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\RoboMaster\code\XTYF\Standard-2026\project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/project.elf.dir/Core/XTYF/Lib/Device/BMI088/dvc_bmi088.cpp.obj"
 	D:\ClionToolchains\gcc-arm-none-eabi-10.3-2021.10\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/project.elf.dir/Core/XTYF/Lib/Device/BMI088/dvc_bmi088.cpp.obj -MF CMakeFiles\project.elf.dir\Core\XTYF\Lib\Device\BMI088\dvc_bmi088.cpp.obj.d -o CMakeFiles\project.elf.dir\Core\XTYF\Lib\Device\BMI088\dvc_bmi088.cpp.obj -c D:\RoboMaster\code\XTYF\Standard-2026\project\Core\XTYF\Lib\Device\BMI088\dvc_bmi088.cpp
 
 CMakeFiles/project.elf.dir/Core/XTYF/Lib/Device/BMI088/dvc_bmi088.cpp.i: cmake_force
@@ -255,7 +269,7 @@ CMakeFiles/project.elf.dir/Core/XTYF/Lib/Device/BMI088/dvc_bmi088.cpp.s: cmake_f
 CMakeFiles/project.elf.dir/Core/XTYF/Lib/Device/DR16/dvc_dr16.cpp.obj: CMakeFiles/project.elf.dir/flags.make
 CMakeFiles/project.elf.dir/Core/XTYF/Lib/Device/DR16/dvc_dr16.cpp.obj: D:/RoboMaster/code/XTYF/Standard-2026/project/Core/XTYF/Lib/Device/DR16/dvc_dr16.cpp
 CMakeFiles/project.elf.dir/Core/XTYF/Lib/Device/DR16/dvc_dr16.cpp.obj: CMakeFiles/project.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\RoboMaster\code\XTYF\Standard-2026\project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/project.elf.dir/Core/XTYF/Lib/Device/DR16/dvc_dr16.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\RoboMaster\code\XTYF\Standard-2026\project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/project.elf.dir/Core/XTYF/Lib/Device/DR16/dvc_dr16.cpp.obj"
 	D:\ClionToolchains\gcc-arm-none-eabi-10.3-2021.10\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/project.elf.dir/Core/XTYF/Lib/Device/DR16/dvc_dr16.cpp.obj -MF CMakeFiles\project.elf.dir\Core\XTYF\Lib\Device\DR16\dvc_dr16.cpp.obj.d -o CMakeFiles\project.elf.dir\Core\XTYF\Lib\Device\DR16\dvc_dr16.cpp.obj -c D:\RoboMaster\code\XTYF\Standard-2026\project\Core\XTYF\Lib\Device\DR16\dvc_dr16.cpp
 
 CMakeFiles/project.elf.dir/Core/XTYF/Lib/Device/DR16/dvc_dr16.cpp.i: cmake_force
@@ -269,7 +283,7 @@ CMakeFiles/project.elf.dir/Core/XTYF/Lib/Device/DR16/dvc_dr16.cpp.s: cmake_force
 CMakeFiles/project.elf.dir/Core/XTYF/Lib/Device/VOFA/dvc_vofa.cpp.obj: CMakeFiles/project.elf.dir/flags.make
 CMakeFiles/project.elf.dir/Core/XTYF/Lib/Device/VOFA/dvc_vofa.cpp.obj: D:/RoboMaster/code/XTYF/Standard-2026/project/Core/XTYF/Lib/Device/VOFA/dvc_vofa.cpp
 CMakeFiles/project.elf.dir/Core/XTYF/Lib/Device/VOFA/dvc_vofa.cpp.obj: CMakeFiles/project.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\RoboMaster\code\XTYF\Standard-2026\project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/project.elf.dir/Core/XTYF/Lib/Device/VOFA/dvc_vofa.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\RoboMaster\code\XTYF\Standard-2026\project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/project.elf.dir/Core/XTYF/Lib/Device/VOFA/dvc_vofa.cpp.obj"
 	D:\ClionToolchains\gcc-arm-none-eabi-10.3-2021.10\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/project.elf.dir/Core/XTYF/Lib/Device/VOFA/dvc_vofa.cpp.obj -MF CMakeFiles\project.elf.dir\Core\XTYF\Lib\Device\VOFA\dvc_vofa.cpp.obj.d -o CMakeFiles\project.elf.dir\Core\XTYF\Lib\Device\VOFA\dvc_vofa.cpp.obj -c D:\RoboMaster\code\XTYF\Standard-2026\project\Core\XTYF\Lib\Device\VOFA\dvc_vofa.cpp
 
 CMakeFiles/project.elf.dir/Core/XTYF/Lib/Device/VOFA/dvc_vofa.cpp.i: cmake_force
@@ -283,7 +297,7 @@ CMakeFiles/project.elf.dir/Core/XTYF/Lib/Device/VOFA/dvc_vofa.cpp.s: cmake_force
 CMakeFiles/project.elf.dir/Core/XTYF/Lib/Driver/CAN/drv_can.cpp.obj: CMakeFiles/project.elf.dir/flags.make
 CMakeFiles/project.elf.dir/Core/XTYF/Lib/Driver/CAN/drv_can.cpp.obj: D:/RoboMaster/code/XTYF/Standard-2026/project/Core/XTYF/Lib/Driver/CAN/drv_can.cpp
 CMakeFiles/project.elf.dir/Core/XTYF/Lib/Driver/CAN/drv_can.cpp.obj: CMakeFiles/project.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\RoboMaster\code\XTYF\Standard-2026\project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/project.elf.dir/Core/XTYF/Lib/Driver/CAN/drv_can.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\RoboMaster\code\XTYF\Standard-2026\project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/project.elf.dir/Core/XTYF/Lib/Driver/CAN/drv_can.cpp.obj"
 	D:\ClionToolchains\gcc-arm-none-eabi-10.3-2021.10\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/project.elf.dir/Core/XTYF/Lib/Driver/CAN/drv_can.cpp.obj -MF CMakeFiles\project.elf.dir\Core\XTYF\Lib\Driver\CAN\drv_can.cpp.obj.d -o CMakeFiles\project.elf.dir\Core\XTYF\Lib\Driver\CAN\drv_can.cpp.obj -c D:\RoboMaster\code\XTYF\Standard-2026\project\Core\XTYF\Lib\Driver\CAN\drv_can.cpp
 
 CMakeFiles/project.elf.dir/Core/XTYF/Lib/Driver/CAN/drv_can.cpp.i: cmake_force
@@ -294,10 +308,24 @@ CMakeFiles/project.elf.dir/Core/XTYF/Lib/Driver/CAN/drv_can.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/project.elf.dir/Core/XTYF/Lib/Driver/CAN/drv_can.cpp.s"
 	D:\ClionToolchains\gcc-arm-none-eabi-10.3-2021.10\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\RoboMaster\code\XTYF\Standard-2026\project\Core\XTYF\Lib\Driver\CAN\drv_can.cpp -o CMakeFiles\project.elf.dir\Core\XTYF\Lib\Driver\CAN\drv_can.cpp.s
 
+CMakeFiles/project.elf.dir/Core/XTYF/Lib/Driver/SPI/drv_spi.cpp.obj: CMakeFiles/project.elf.dir/flags.make
+CMakeFiles/project.elf.dir/Core/XTYF/Lib/Driver/SPI/drv_spi.cpp.obj: D:/RoboMaster/code/XTYF/Standard-2026/project/Core/XTYF/Lib/Driver/SPI/drv_spi.cpp
+CMakeFiles/project.elf.dir/Core/XTYF/Lib/Driver/SPI/drv_spi.cpp.obj: CMakeFiles/project.elf.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\RoboMaster\code\XTYF\Standard-2026\project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/project.elf.dir/Core/XTYF/Lib/Driver/SPI/drv_spi.cpp.obj"
+	D:\ClionToolchains\gcc-arm-none-eabi-10.3-2021.10\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/project.elf.dir/Core/XTYF/Lib/Driver/SPI/drv_spi.cpp.obj -MF CMakeFiles\project.elf.dir\Core\XTYF\Lib\Driver\SPI\drv_spi.cpp.obj.d -o CMakeFiles\project.elf.dir\Core\XTYF\Lib\Driver\SPI\drv_spi.cpp.obj -c D:\RoboMaster\code\XTYF\Standard-2026\project\Core\XTYF\Lib\Driver\SPI\drv_spi.cpp
+
+CMakeFiles/project.elf.dir/Core/XTYF/Lib/Driver/SPI/drv_spi.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/project.elf.dir/Core/XTYF/Lib/Driver/SPI/drv_spi.cpp.i"
+	D:\ClionToolchains\gcc-arm-none-eabi-10.3-2021.10\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\RoboMaster\code\XTYF\Standard-2026\project\Core\XTYF\Lib\Driver\SPI\drv_spi.cpp > CMakeFiles\project.elf.dir\Core\XTYF\Lib\Driver\SPI\drv_spi.cpp.i
+
+CMakeFiles/project.elf.dir/Core/XTYF/Lib/Driver/SPI/drv_spi.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/project.elf.dir/Core/XTYF/Lib/Driver/SPI/drv_spi.cpp.s"
+	D:\ClionToolchains\gcc-arm-none-eabi-10.3-2021.10\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\RoboMaster\code\XTYF\Standard-2026\project\Core\XTYF\Lib\Driver\SPI\drv_spi.cpp -o CMakeFiles\project.elf.dir\Core\XTYF\Lib\Driver\SPI\drv_spi.cpp.s
+
 CMakeFiles/project.elf.dir/Core/XTYF/Lib/Driver/USART/drv_usart.cpp.obj: CMakeFiles/project.elf.dir/flags.make
 CMakeFiles/project.elf.dir/Core/XTYF/Lib/Driver/USART/drv_usart.cpp.obj: D:/RoboMaster/code/XTYF/Standard-2026/project/Core/XTYF/Lib/Driver/USART/drv_usart.cpp
 CMakeFiles/project.elf.dir/Core/XTYF/Lib/Driver/USART/drv_usart.cpp.obj: CMakeFiles/project.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\RoboMaster\code\XTYF\Standard-2026\project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/project.elf.dir/Core/XTYF/Lib/Driver/USART/drv_usart.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\RoboMaster\code\XTYF\Standard-2026\project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/project.elf.dir/Core/XTYF/Lib/Driver/USART/drv_usart.cpp.obj"
 	D:\ClionToolchains\gcc-arm-none-eabi-10.3-2021.10\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/project.elf.dir/Core/XTYF/Lib/Driver/USART/drv_usart.cpp.obj -MF CMakeFiles\project.elf.dir\Core\XTYF\Lib\Driver\USART\drv_usart.cpp.obj.d -o CMakeFiles\project.elf.dir\Core\XTYF\Lib\Driver\USART\drv_usart.cpp.obj -c D:\RoboMaster\code\XTYF\Standard-2026\project\Core\XTYF\Lib\Driver\USART\drv_usart.cpp
 
 CMakeFiles/project.elf.dir/Core/XTYF/Lib/Driver/USART/drv_usart.cpp.i: cmake_force
@@ -311,7 +339,7 @@ CMakeFiles/project.elf.dir/Core/XTYF/Lib/Driver/USART/drv_usart.cpp.s: cmake_for
 CMakeFiles/project.elf.dir/Core/XTYF/Robot/Task/task.cpp.obj: CMakeFiles/project.elf.dir/flags.make
 CMakeFiles/project.elf.dir/Core/XTYF/Robot/Task/task.cpp.obj: D:/RoboMaster/code/XTYF/Standard-2026/project/Core/XTYF/Robot/Task/task.cpp
 CMakeFiles/project.elf.dir/Core/XTYF/Robot/Task/task.cpp.obj: CMakeFiles/project.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\RoboMaster\code\XTYF\Standard-2026\project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/project.elf.dir/Core/XTYF/Robot/Task/task.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\RoboMaster\code\XTYF\Standard-2026\project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/project.elf.dir/Core/XTYF/Robot/Task/task.cpp.obj"
 	D:\ClionToolchains\gcc-arm-none-eabi-10.3-2021.10\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/project.elf.dir/Core/XTYF/Robot/Task/task.cpp.obj -MF CMakeFiles\project.elf.dir\Core\XTYF\Robot\Task\task.cpp.obj.d -o CMakeFiles\project.elf.dir\Core\XTYF\Robot\Task\task.cpp.obj -c D:\RoboMaster\code\XTYF\Standard-2026\project\Core\XTYF\Robot\Task\task.cpp
 
 CMakeFiles/project.elf.dir/Core/XTYF/Robot/Task/task.cpp.i: cmake_force
@@ -325,7 +353,7 @@ CMakeFiles/project.elf.dir/Core/XTYF/Robot/Task/task.cpp.s: cmake_force
 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj: CMakeFiles/project.elf.dir/flags.make
 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj: D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c
 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj: CMakeFiles/project.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\RoboMaster\code\XTYF\Standard-2026\project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building C object CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\RoboMaster\code\XTYF\Standard-2026\project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building C object CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj"
 	D:\ClionToolchains\gcc-arm-none-eabi-10.3-2021.10\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj -MF CMakeFiles\project.elf.dir\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal.c.obj.d -o CMakeFiles\project.elf.dir\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal.c.obj -c D:\RoboMaster\code\XTYF\Standard-2026\project\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal.c
 
 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.i: cmake_force
@@ -339,7 +367,7 @@ CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.s: c
 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj: CMakeFiles/project.elf.dir/flags.make
 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj: D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c
 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj: CMakeFiles/project.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\RoboMaster\code\XTYF\Standard-2026\project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building C object CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\RoboMaster\code\XTYF\Standard-2026\project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building C object CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj"
 	D:\ClionToolchains\gcc-arm-none-eabi-10.3-2021.10\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj -MF CMakeFiles\project.elf.dir\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_cortex.c.obj.d -o CMakeFiles\project.elf.dir\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_cortex.c.obj -c D:\RoboMaster\code\XTYF\Standard-2026\project\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_cortex.c
 
 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.i: cmake_force
@@ -353,7 +381,7 @@ CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex
 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma.c.obj: CMakeFiles/project.elf.dir/flags.make
 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma.c.obj: D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma.c
 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma.c.obj: CMakeFiles/project.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\RoboMaster\code\XTYF\Standard-2026\project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building C object CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\RoboMaster\code\XTYF\Standard-2026\project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building C object CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma.c.obj"
 	D:\ClionToolchains\gcc-arm-none-eabi-10.3-2021.10\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma.c.obj -MF CMakeFiles\project.elf.dir\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_dma.c.obj.d -o CMakeFiles\project.elf.dir\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_dma.c.obj -c D:\RoboMaster\code\XTYF\Standard-2026\project\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_dma.c
 
 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma.c.i: cmake_force
@@ -367,7 +395,7 @@ CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma.c.
 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma_ex.c.obj: CMakeFiles/project.elf.dir/flags.make
 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma_ex.c.obj: D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma_ex.c
 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma_ex.c.obj: CMakeFiles/project.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\RoboMaster\code\XTYF\Standard-2026\project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building C object CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma_ex.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\RoboMaster\code\XTYF\Standard-2026\project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building C object CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma_ex.c.obj"
 	D:\ClionToolchains\gcc-arm-none-eabi-10.3-2021.10\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma_ex.c.obj -MF CMakeFiles\project.elf.dir\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_dma_ex.c.obj.d -o CMakeFiles\project.elf.dir\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_dma_ex.c.obj -c D:\RoboMaster\code\XTYF\Standard-2026\project\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_dma_ex.c
 
 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma_ex.c.i: cmake_force
@@ -381,7 +409,7 @@ CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma_ex
 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_exti.c.obj: CMakeFiles/project.elf.dir/flags.make
 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_exti.c.obj: D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_exti.c
 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_exti.c.obj: CMakeFiles/project.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\RoboMaster\code\XTYF\Standard-2026\project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building C object CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_exti.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\RoboMaster\code\XTYF\Standard-2026\project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building C object CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_exti.c.obj"
 	D:\ClionToolchains\gcc-arm-none-eabi-10.3-2021.10\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_exti.c.obj -MF CMakeFiles\project.elf.dir\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_exti.c.obj.d -o CMakeFiles\project.elf.dir\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_exti.c.obj -c D:\RoboMaster\code\XTYF\Standard-2026\project\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_exti.c
 
 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_exti.c.i: cmake_force
@@ -395,7 +423,7 @@ CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_exti.c
 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_fdcan.c.obj: CMakeFiles/project.elf.dir/flags.make
 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_fdcan.c.obj: D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_fdcan.c
 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_fdcan.c.obj: CMakeFiles/project.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\RoboMaster\code\XTYF\Standard-2026\project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building C object CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_fdcan.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\RoboMaster\code\XTYF\Standard-2026\project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building C object CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_fdcan.c.obj"
 	D:\ClionToolchains\gcc-arm-none-eabi-10.3-2021.10\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_fdcan.c.obj -MF CMakeFiles\project.elf.dir\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_fdcan.c.obj.d -o CMakeFiles\project.elf.dir\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_fdcan.c.obj -c D:\RoboMaster\code\XTYF\Standard-2026\project\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_fdcan.c
 
 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_fdcan.c.i: cmake_force
@@ -409,7 +437,7 @@ CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_fdcan.
 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash.c.obj: CMakeFiles/project.elf.dir/flags.make
 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash.c.obj: D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash.c
 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash.c.obj: CMakeFiles/project.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\RoboMaster\code\XTYF\Standard-2026\project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building C object CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\RoboMaster\code\XTYF\Standard-2026\project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building C object CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash.c.obj"
 	D:\ClionToolchains\gcc-arm-none-eabi-10.3-2021.10\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash.c.obj -MF CMakeFiles\project.elf.dir\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_flash.c.obj.d -o CMakeFiles\project.elf.dir\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_flash.c.obj -c D:\RoboMaster\code\XTYF\Standard-2026\project\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_flash.c
 
 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash.c.i: cmake_force
@@ -423,7 +451,7 @@ CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash.
 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash_ex.c.obj: CMakeFiles/project.elf.dir/flags.make
 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash_ex.c.obj: D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash_ex.c
 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash_ex.c.obj: CMakeFiles/project.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\RoboMaster\code\XTYF\Standard-2026\project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building C object CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash_ex.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\RoboMaster\code\XTYF\Standard-2026\project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building C object CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash_ex.c.obj"
 	D:\ClionToolchains\gcc-arm-none-eabi-10.3-2021.10\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash_ex.c.obj -MF CMakeFiles\project.elf.dir\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_flash_ex.c.obj.d -o CMakeFiles\project.elf.dir\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_flash_ex.c.obj -c D:\RoboMaster\code\XTYF\Standard-2026\project\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_flash_ex.c
 
 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash_ex.c.i: cmake_force
@@ -437,7 +465,7 @@ CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash_
 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj: CMakeFiles/project.elf.dir/flags.make
 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj: D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c
 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj: CMakeFiles/project.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\RoboMaster\code\XTYF\Standard-2026\project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building C object CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\RoboMaster\code\XTYF\Standard-2026\project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building C object CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj"
 	D:\ClionToolchains\gcc-arm-none-eabi-10.3-2021.10\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj -MF CMakeFiles\project.elf.dir\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_gpio.c.obj.d -o CMakeFiles\project.elf.dir\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_gpio.c.obj -c D:\RoboMaster\code\XTYF\Standard-2026\project\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_gpio.c
 
 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.i: cmake_force
@@ -451,7 +479,7 @@ CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c
 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_hsem.c.obj: CMakeFiles/project.elf.dir/flags.make
 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_hsem.c.obj: D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_hsem.c
 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_hsem.c.obj: CMakeFiles/project.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\RoboMaster\code\XTYF\Standard-2026\project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building C object CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_hsem.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\RoboMaster\code\XTYF\Standard-2026\project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building C object CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_hsem.c.obj"
 	D:\ClionToolchains\gcc-arm-none-eabi-10.3-2021.10\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_hsem.c.obj -MF CMakeFiles\project.elf.dir\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_hsem.c.obj.d -o CMakeFiles\project.elf.dir\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_hsem.c.obj -c D:\RoboMaster\code\XTYF\Standard-2026\project\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_hsem.c
 
 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_hsem.c.i: cmake_force
@@ -465,7 +493,7 @@ CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_hsem.c
 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj: CMakeFiles/project.elf.dir/flags.make
 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj: D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c
 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj: CMakeFiles/project.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\RoboMaster\code\XTYF\Standard-2026\project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building C object CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\RoboMaster\code\XTYF\Standard-2026\project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building C object CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj"
 	D:\ClionToolchains\gcc-arm-none-eabi-10.3-2021.10\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj -MF CMakeFiles\project.elf.dir\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_i2c.c.obj.d -o CMakeFiles\project.elf.dir\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_i2c.c.obj -c D:\RoboMaster\code\XTYF\Standard-2026\project\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_i2c.c
 
 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.i: cmake_force
@@ -479,7 +507,7 @@ CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.
 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c_ex.c.obj: CMakeFiles/project.elf.dir/flags.make
 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c_ex.c.obj: D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c_ex.c
 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c_ex.c.obj: CMakeFiles/project.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\RoboMaster\code\XTYF\Standard-2026\project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building C object CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c_ex.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\RoboMaster\code\XTYF\Standard-2026\project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building C object CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c_ex.c.obj"
 	D:\ClionToolchains\gcc-arm-none-eabi-10.3-2021.10\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c_ex.c.obj -MF CMakeFiles\project.elf.dir\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_i2c_ex.c.obj.d -o CMakeFiles\project.elf.dir\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_i2c_ex.c.obj -c D:\RoboMaster\code\XTYF\Standard-2026\project\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_i2c_ex.c
 
 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c_ex.c.i: cmake_force
@@ -493,7 +521,7 @@ CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c_ex
 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_mdma.c.obj: CMakeFiles/project.elf.dir/flags.make
 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_mdma.c.obj: D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_mdma.c
 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_mdma.c.obj: CMakeFiles/project.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\RoboMaster\code\XTYF\Standard-2026\project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building C object CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_mdma.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\RoboMaster\code\XTYF\Standard-2026\project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building C object CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_mdma.c.obj"
 	D:\ClionToolchains\gcc-arm-none-eabi-10.3-2021.10\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_mdma.c.obj -MF CMakeFiles\project.elf.dir\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_mdma.c.obj.d -o CMakeFiles\project.elf.dir\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_mdma.c.obj -c D:\RoboMaster\code\XTYF\Standard-2026\project\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_mdma.c
 
 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_mdma.c.i: cmake_force
@@ -507,7 +535,7 @@ CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_mdma.c
 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr.c.obj: CMakeFiles/project.elf.dir/flags.make
 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr.c.obj: D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr.c
 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr.c.obj: CMakeFiles/project.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\RoboMaster\code\XTYF\Standard-2026\project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building C object CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\RoboMaster\code\XTYF\Standard-2026\project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building C object CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr.c.obj"
 	D:\ClionToolchains\gcc-arm-none-eabi-10.3-2021.10\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr.c.obj -MF CMakeFiles\project.elf.dir\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_pwr.c.obj.d -o CMakeFiles\project.elf.dir\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_pwr.c.obj -c D:\RoboMaster\code\XTYF\Standard-2026\project\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_pwr.c
 
 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr.c.i: cmake_force
@@ -521,7 +549,7 @@ CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr.c.
 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj: CMakeFiles/project.elf.dir/flags.make
 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj: D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c
 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj: CMakeFiles/project.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\RoboMaster\code\XTYF\Standard-2026\project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building C object CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\RoboMaster\code\XTYF\Standard-2026\project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building C object CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj"
 	D:\ClionToolchains\gcc-arm-none-eabi-10.3-2021.10\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj -MF CMakeFiles\project.elf.dir\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_pwr_ex.c.obj.d -o CMakeFiles\project.elf.dir\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_pwr_ex.c.obj -c D:\RoboMaster\code\XTYF\Standard-2026\project\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_pwr_ex.c
 
 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.i: cmake_force
@@ -535,7 +563,7 @@ CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex
 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj: CMakeFiles/project.elf.dir/flags.make
 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj: D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c
 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj: CMakeFiles/project.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\RoboMaster\code\XTYF\Standard-2026\project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building C object CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\RoboMaster\code\XTYF\Standard-2026\project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building C object CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj"
 	D:\ClionToolchains\gcc-arm-none-eabi-10.3-2021.10\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj -MF CMakeFiles\project.elf.dir\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_rcc.c.obj.d -o CMakeFiles\project.elf.dir\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_rcc.c.obj -c D:\RoboMaster\code\XTYF\Standard-2026\project\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_rcc.c
 
 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.i: cmake_force
@@ -549,7 +577,7 @@ CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.
 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj: CMakeFiles/project.elf.dir/flags.make
 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj: D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c
 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj: CMakeFiles/project.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\RoboMaster\code\XTYF\Standard-2026\project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building C object CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\RoboMaster\code\XTYF\Standard-2026\project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building C object CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj"
 	D:\ClionToolchains\gcc-arm-none-eabi-10.3-2021.10\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj -MF CMakeFiles\project.elf.dir\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_rcc_ex.c.obj.d -o CMakeFiles\project.elf.dir\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_rcc_ex.c.obj -c D:\RoboMaster\code\XTYF\Standard-2026\project\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_rcc_ex.c
 
 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.i: cmake_force
@@ -560,10 +588,38 @@ CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.s"
 	D:\ClionToolchains\gcc-arm-none-eabi-10.3-2021.10\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\RoboMaster\code\XTYF\Standard-2026\project\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_rcc_ex.c -o CMakeFiles\project.elf.dir\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_rcc_ex.c.s
 
+CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_spi.c.obj: CMakeFiles/project.elf.dir/flags.make
+CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_spi.c.obj: D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_spi.c
+CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_spi.c.obj: CMakeFiles/project.elf.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\RoboMaster\code\XTYF\Standard-2026\project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building C object CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_spi.c.obj"
+	D:\ClionToolchains\gcc-arm-none-eabi-10.3-2021.10\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_spi.c.obj -MF CMakeFiles\project.elf.dir\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_spi.c.obj.d -o CMakeFiles\project.elf.dir\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_spi.c.obj -c D:\RoboMaster\code\XTYF\Standard-2026\project\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_spi.c
+
+CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_spi.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_spi.c.i"
+	D:\ClionToolchains\gcc-arm-none-eabi-10.3-2021.10\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\RoboMaster\code\XTYF\Standard-2026\project\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_spi.c > CMakeFiles\project.elf.dir\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_spi.c.i
+
+CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_spi.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_spi.c.s"
+	D:\ClionToolchains\gcc-arm-none-eabi-10.3-2021.10\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\RoboMaster\code\XTYF\Standard-2026\project\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_spi.c -o CMakeFiles\project.elf.dir\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_spi.c.s
+
+CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_spi_ex.c.obj: CMakeFiles/project.elf.dir/flags.make
+CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_spi_ex.c.obj: D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_spi_ex.c
+CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_spi_ex.c.obj: CMakeFiles/project.elf.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\RoboMaster\code\XTYF\Standard-2026\project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building C object CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_spi_ex.c.obj"
+	D:\ClionToolchains\gcc-arm-none-eabi-10.3-2021.10\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_spi_ex.c.obj -MF CMakeFiles\project.elf.dir\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_spi_ex.c.obj.d -o CMakeFiles\project.elf.dir\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_spi_ex.c.obj -c D:\RoboMaster\code\XTYF\Standard-2026\project\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_spi_ex.c
+
+CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_spi_ex.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_spi_ex.c.i"
+	D:\ClionToolchains\gcc-arm-none-eabi-10.3-2021.10\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\RoboMaster\code\XTYF\Standard-2026\project\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_spi_ex.c > CMakeFiles\project.elf.dir\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_spi_ex.c.i
+
+CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_spi_ex.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_spi_ex.c.s"
+	D:\ClionToolchains\gcc-arm-none-eabi-10.3-2021.10\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\RoboMaster\code\XTYF\Standard-2026\project\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_spi_ex.c -o CMakeFiles\project.elf.dir\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_spi_ex.c.s
+
 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj: CMakeFiles/project.elf.dir/flags.make
 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj: D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c
 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj: CMakeFiles/project.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\RoboMaster\code\XTYF\Standard-2026\project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building C object CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\RoboMaster\code\XTYF\Standard-2026\project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building C object CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj"
 	D:\ClionToolchains\gcc-arm-none-eabi-10.3-2021.10\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj -MF CMakeFiles\project.elf.dir\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_uart.c.obj.d -o CMakeFiles\project.elf.dir\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_uart.c.obj -c D:\RoboMaster\code\XTYF\Standard-2026\project\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_uart.c
 
 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.i: cmake_force
@@ -577,7 +633,7 @@ CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c
 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj: CMakeFiles/project.elf.dir/flags.make
 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj: D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c
 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj: CMakeFiles/project.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\RoboMaster\code\XTYF\Standard-2026\project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building C object CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\RoboMaster\code\XTYF\Standard-2026\project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building C object CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj"
 	D:\ClionToolchains\gcc-arm-none-eabi-10.3-2021.10\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj -MF CMakeFiles\project.elf.dir\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_uart_ex.c.obj.d -o CMakeFiles\project.elf.dir\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_uart_ex.c.obj -c D:\RoboMaster\code\XTYF\Standard-2026\project\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_uart_ex.c
 
 CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.i: cmake_force
@@ -595,6 +651,7 @@ project_elf_OBJECTS = \
 "CMakeFiles/project.elf.dir/Core/Src/gpio.c.obj" \
 "CMakeFiles/project.elf.dir/Core/Src/main.c.obj" \
 "CMakeFiles/project.elf.dir/Core/Src/memorymap.c.obj" \
+"CMakeFiles/project.elf.dir/Core/Src/spi.c.obj" \
 "CMakeFiles/project.elf.dir/Core/Src/stm32h7xx_hal_msp.c.obj" \
 "CMakeFiles/project.elf.dir/Core/Src/stm32h7xx_it.c.obj" \
 "CMakeFiles/project.elf.dir/Core/Src/syscalls.c.obj" \
@@ -606,6 +663,7 @@ project_elf_OBJECTS = \
 "CMakeFiles/project.elf.dir/Core/XTYF/Lib/Device/DR16/dvc_dr16.cpp.obj" \
 "CMakeFiles/project.elf.dir/Core/XTYF/Lib/Device/VOFA/dvc_vofa.cpp.obj" \
 "CMakeFiles/project.elf.dir/Core/XTYF/Lib/Driver/CAN/drv_can.cpp.obj" \
+"CMakeFiles/project.elf.dir/Core/XTYF/Lib/Driver/SPI/drv_spi.cpp.obj" \
 "CMakeFiles/project.elf.dir/Core/XTYF/Lib/Driver/USART/drv_usart.cpp.obj" \
 "CMakeFiles/project.elf.dir/Core/XTYF/Robot/Task/task.cpp.obj" \
 "CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj" \
@@ -625,6 +683,8 @@ project_elf_OBJECTS = \
 "CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj" \
 "CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj" \
 "CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj" \
+"CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_spi.c.obj" \
+"CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_spi_ex.c.obj" \
 "CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj" \
 "CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj"
 
@@ -636,6 +696,7 @@ project.elf: CMakeFiles/project.elf.dir/Core/Src/fdcan.c.obj
 project.elf: CMakeFiles/project.elf.dir/Core/Src/gpio.c.obj
 project.elf: CMakeFiles/project.elf.dir/Core/Src/main.c.obj
 project.elf: CMakeFiles/project.elf.dir/Core/Src/memorymap.c.obj
+project.elf: CMakeFiles/project.elf.dir/Core/Src/spi.c.obj
 project.elf: CMakeFiles/project.elf.dir/Core/Src/stm32h7xx_hal_msp.c.obj
 project.elf: CMakeFiles/project.elf.dir/Core/Src/stm32h7xx_it.c.obj
 project.elf: CMakeFiles/project.elf.dir/Core/Src/syscalls.c.obj
@@ -647,6 +708,7 @@ project.elf: CMakeFiles/project.elf.dir/Core/XTYF/Lib/Device/BMI088/dvc_bmi088.c
 project.elf: CMakeFiles/project.elf.dir/Core/XTYF/Lib/Device/DR16/dvc_dr16.cpp.obj
 project.elf: CMakeFiles/project.elf.dir/Core/XTYF/Lib/Device/VOFA/dvc_vofa.cpp.obj
 project.elf: CMakeFiles/project.elf.dir/Core/XTYF/Lib/Driver/CAN/drv_can.cpp.obj
+project.elf: CMakeFiles/project.elf.dir/Core/XTYF/Lib/Driver/SPI/drv_spi.cpp.obj
 project.elf: CMakeFiles/project.elf.dir/Core/XTYF/Lib/Driver/USART/drv_usart.cpp.obj
 project.elf: CMakeFiles/project.elf.dir/Core/XTYF/Robot/Task/task.cpp.obj
 project.elf: CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
@@ -666,11 +728,13 @@ project.elf: CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7
 project.elf: CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
 project.elf: CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
 project.elf: CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
+project.elf: CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_spi.c.obj
+project.elf: CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_spi_ex.c.obj
 project.elf: CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
 project.elf: CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj
 project.elf: CMakeFiles/project.elf.dir/build.make
 project.elf: CMakeFiles/project.elf.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=D:\RoboMaster\code\XTYF\Standard-2026\project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Linking CXX executable project.elf"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=D:\RoboMaster\code\XTYF\Standard-2026\project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Linking CXX executable project.elf"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\project.elf.dir\link.txt --verbose=$(VERBOSE)
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold "Building D:/RoboMaster/code/XTYF/Standard-2026/project/cmake-build-debug/project.hex"
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold "Building D:/RoboMaster/code/XTYF/Standard-2026/project/cmake-build-debug/project.bin"

@@ -51,6 +51,8 @@ CMakeFiles/project.elf.dir/Core/Src/dma.c.obj: D:/RoboMaster/code/XTYF/Standard-
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_pwr_ex.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc_ex.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_spi.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_spi_ex.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart_ex.h
 
@@ -104,6 +106,8 @@ CMakeFiles/project.elf.dir/Core/Src/fdcan.c.obj: D:/RoboMaster/code/XTYF/Standar
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_pwr_ex.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc_ex.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_spi.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_spi_ex.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart_ex.h
 
@@ -157,6 +161,8 @@ CMakeFiles/project.elf.dir/Core/Src/gpio.c.obj: D:/RoboMaster/code/XTYF/Standard
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_pwr_ex.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc_ex.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_spi.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_spi_ex.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart_ex.h
 
@@ -184,6 +190,7 @@ CMakeFiles/project.elf.dir/Core/Src/main.c.obj: D:/RoboMaster/code/XTYF/Standard
   D:/RoboMaster/code/XTYF/Standard-2026/project/Core/Inc/gpio.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Core/Inc/main.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Core/Inc/memorymap.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Core/Inc/spi.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Core/Inc/stm32h7xx_hal_conf.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Core/Inc/usart.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Core/XTYF/Robot/Task/task.h \
@@ -215,6 +222,8 @@ CMakeFiles/project.elf.dir/Core/Src/main.c.obj: D:/RoboMaster/code/XTYF/Standard
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_pwr_ex.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc_ex.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_spi.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_spi_ex.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart_ex.h
 
@@ -268,6 +277,63 @@ CMakeFiles/project.elf.dir/Core/Src/memorymap.c.obj: D:/RoboMaster/code/XTYF/Sta
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_pwr_ex.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc_ex.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_spi.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_spi_ex.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart_ex.h
+
+CMakeFiles/project.elf.dir/Core/Src/spi.c.obj: D:/RoboMaster/code/XTYF/Standard-2026/project/Core/Src/spi.c \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/_ansi.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/_newlib_version.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/machine/_default_types.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/machine/_types.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/machine/ieeefp.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/math.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/newlib.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/stdint.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/sys/_intsup.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/sys/_stdint.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/sys/_types.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/sys/cdefs.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/sys/config.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/sys/features.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/sys/lock.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/sys/reent.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/lib/gcc/arm-none-eabi/13.3.1/include/stddef.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/lib/gcc/arm-none-eabi/13.3.1/include/stdint.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Core/Inc/main.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Core/Inc/spi.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Core/Inc/stm32h7xx_hal_conf.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/CMSIS/Device/ST/STM32H7xx/Include/stm32h723xx.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/CMSIS/Device/ST/STM32H7xx/Include/stm32h7xx.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/CMSIS/Device/ST/STM32H7xx/Include/system_stm32h7xx.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/CMSIS/Include/cmsis_compiler.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/CMSIS/Include/cmsis_gcc.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/CMSIS/Include/cmsis_version.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/CMSIS/Include/core_cm7.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/CMSIS/Include/mpu_armv7.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_cortex.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_def.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_dma.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_dma_ex.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_exti.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_fdcan.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_flash.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_flash_ex.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_gpio.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_gpio_ex.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_hsem.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_i2c.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_i2c_ex.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_mdma.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_pwr.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_pwr_ex.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc_ex.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_spi.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_spi_ex.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart_ex.h
 
@@ -320,6 +386,8 @@ CMakeFiles/project.elf.dir/Core/Src/stm32h7xx_hal_msp.c.obj: D:/RoboMaster/code/
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_pwr_ex.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc_ex.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_spi.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_spi_ex.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart_ex.h
 
@@ -373,6 +441,8 @@ CMakeFiles/project.elf.dir/Core/Src/stm32h7xx_it.c.obj: D:/RoboMaster/code/XTYF/
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_pwr_ex.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc_ex.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_spi.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_spi_ex.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart_ex.h
 
@@ -492,6 +562,8 @@ CMakeFiles/project.elf.dir/Core/Src/system_stm32h7xx.c.obj: D:/RoboMaster/code/X
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_pwr_ex.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc_ex.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_spi.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_spi_ex.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart_ex.h
 
@@ -545,6 +617,8 @@ CMakeFiles/project.elf.dir/Core/Src/usart.c.obj: D:/RoboMaster/code/XTYF/Standar
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_pwr_ex.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc_ex.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_spi.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_spi_ex.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart_ex.h
 
@@ -651,6 +725,8 @@ CMakeFiles/project.elf.dir/Core/XTYF/Lib/Device/DR16/dvc_dr16.cpp.obj: D:/RoboMa
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_pwr_ex.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc_ex.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_spi.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_spi_ex.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart_ex.h
 
@@ -756,6 +832,8 @@ CMakeFiles/project.elf.dir/Core/XTYF/Lib/Device/VOFA/dvc_vofa.cpp.obj: D:/RoboMa
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_pwr_ex.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc_ex.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_spi.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_spi_ex.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart_ex.h
 
@@ -859,6 +937,113 @@ CMakeFiles/project.elf.dir/Core/XTYF/Lib/Driver/CAN/drv_can.cpp.obj: D:/RoboMast
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_pwr_ex.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc_ex.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_spi.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_spi_ex.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart_ex.h
+
+CMakeFiles/project.elf.dir/Core/XTYF/Lib/Driver/SPI/drv_spi.cpp.obj: D:/RoboMaster/code/XTYF/Standard-2026/project/Core/XTYF/Lib/Driver/SPI/drv_spi.cpp \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/_ansi.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/_newlib_version.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/alloca.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/13.3.1/arm-none-eabi/thumb/v7e-m+fp/hard/bits/c++config.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/13.3.1/arm-none-eabi/thumb/v7e-m+fp/hard/bits/cpu_defines.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/13.3.1/arm-none-eabi/thumb/v7e-m+fp/hard/bits/os_defines.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/13.3.1/bit \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/13.3.1/bits/concept_check.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/13.3.1/bits/cpp_type_traits.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/13.3.1/bits/exception_defines.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/13.3.1/bits/functexcept.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/13.3.1/bits/move.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/13.3.1/bits/predefined_ops.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/13.3.1/bits/ptr_traits.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/13.3.1/bits/requires_hosted.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/13.3.1/bits/specfun.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/13.3.1/bits/std_abs.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/13.3.1/bits/stl_algobase.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/13.3.1/bits/stl_iterator.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/13.3.1/bits/stl_iterator_base_funcs.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/13.3.1/bits/stl_iterator_base_types.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/13.3.1/bits/stl_pair.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/13.3.1/bits/utility.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/13.3.1/cmath \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/13.3.1/cstring \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/13.3.1/debug/assertions.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/13.3.1/debug/debug.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/13.3.1/ext/numeric_traits.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/13.3.1/ext/type_traits.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/13.3.1/limits \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/13.3.1/math.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/13.3.1/pstl/pstl_config.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/13.3.1/tr1/bessel_function.tcc \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/13.3.1/tr1/beta_function.tcc \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/13.3.1/tr1/ell_integral.tcc \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/13.3.1/tr1/exp_integral.tcc \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/13.3.1/tr1/gamma.tcc \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/13.3.1/tr1/hypergeometric.tcc \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/13.3.1/tr1/legendre_function.tcc \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/13.3.1/tr1/modified_bessel_func.tcc \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/13.3.1/tr1/poly_hermite.tcc \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/13.3.1/tr1/poly_laguerre.tcc \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/13.3.1/tr1/riemann_zeta.tcc \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/13.3.1/tr1/special_function_util.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/13.3.1/type_traits \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/machine/_default_types.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/machine/_types.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/machine/ieeefp.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/machine/stdlib.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/math.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/newlib.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/stdint.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/stdlib.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/string.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/strings.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/sys/_intsup.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/sys/_locale.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/sys/_stdint.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/sys/_types.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/sys/cdefs.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/sys/config.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/sys/features.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/sys/lock.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/sys/reent.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/sys/string.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/lib/gcc/arm-none-eabi/13.3.1/include/stddef.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/lib/gcc/arm-none-eabi/13.3.1/include/stdint.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Core/Inc/main.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Core/Inc/spi.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Core/Inc/stm32h7xx_hal_conf.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Core/XTYF/Lib/Driver/SPI/drv_spi.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/CMSIS/Device/ST/STM32H7xx/Include/stm32h723xx.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/CMSIS/Device/ST/STM32H7xx/Include/stm32h7xx.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/CMSIS/Device/ST/STM32H7xx/Include/system_stm32h7xx.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/CMSIS/Include/cmsis_compiler.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/CMSIS/Include/cmsis_gcc.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/CMSIS/Include/cmsis_version.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/CMSIS/Include/core_cm7.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/CMSIS/Include/mpu_armv7.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_cortex.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_def.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_dma.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_dma_ex.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_exti.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_fdcan.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_flash.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_flash_ex.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_gpio.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_gpio_ex.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_hsem.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_i2c.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_i2c_ex.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_mdma.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_pwr.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_pwr_ex.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc_ex.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_spi.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_spi_ex.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart_ex.h
 
@@ -962,6 +1147,8 @@ CMakeFiles/project.elf.dir/Core/XTYF/Lib/Driver/USART/drv_usart.cpp.obj: D:/Robo
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_pwr_ex.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc_ex.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_spi.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_spi_ex.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart_ex.h
 
@@ -1069,6 +1256,8 @@ CMakeFiles/project.elf.dir/Core/XTYF/Robot/Task/task.cpp.obj: D:/RoboMaster/code
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_pwr_ex.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc_ex.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_spi.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_spi_ex.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart_ex.h
 
@@ -1120,6 +1309,8 @@ CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj:
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_pwr_ex.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc_ex.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_spi.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_spi_ex.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart_ex.h
 
@@ -1171,6 +1362,8 @@ CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_pwr_ex.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc_ex.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_spi.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_spi_ex.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart_ex.h
 
@@ -1222,6 +1415,8 @@ CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma.c.
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_pwr_ex.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc_ex.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_spi.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_spi_ex.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart_ex.h
 
@@ -1273,6 +1468,8 @@ CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma_ex
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_pwr_ex.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc_ex.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_spi.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_spi_ex.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart_ex.h
 
@@ -1324,6 +1521,8 @@ CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_exti.c
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_pwr_ex.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc_ex.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_spi.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_spi_ex.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart_ex.h
 
@@ -1375,6 +1574,8 @@ CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_fdcan.
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_pwr_ex.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc_ex.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_spi.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_spi_ex.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart_ex.h
 
@@ -1426,6 +1627,8 @@ CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash.
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_pwr_ex.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc_ex.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_spi.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_spi_ex.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart_ex.h
 
@@ -1477,6 +1680,8 @@ CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash_
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_pwr_ex.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc_ex.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_spi.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_spi_ex.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart_ex.h
 
@@ -1528,6 +1733,8 @@ CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_pwr_ex.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc_ex.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_spi.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_spi_ex.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart_ex.h
 
@@ -1579,6 +1786,8 @@ CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_hsem.c
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_pwr_ex.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc_ex.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_spi.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_spi_ex.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart_ex.h
 
@@ -1630,6 +1839,8 @@ CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_pwr_ex.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc_ex.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_spi.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_spi_ex.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart_ex.h
 
@@ -1681,6 +1892,8 @@ CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c_ex
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_pwr_ex.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc_ex.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_spi.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_spi_ex.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart_ex.h
 
@@ -1732,6 +1945,8 @@ CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_mdma.c
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_pwr_ex.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc_ex.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_spi.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_spi_ex.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart_ex.h
 
@@ -1783,6 +1998,8 @@ CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr.c.
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_pwr_ex.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc_ex.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_spi.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_spi_ex.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart_ex.h
 
@@ -1834,6 +2051,8 @@ CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_pwr_ex.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc_ex.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_spi.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_spi_ex.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart_ex.h
 
@@ -1885,6 +2104,8 @@ CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_pwr_ex.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc_ex.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_spi.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_spi_ex.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart_ex.h
 
@@ -1936,6 +2157,114 @@ CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_pwr_ex.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc_ex.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_spi.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_spi_ex.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart_ex.h
+
+CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_spi.c.obj: D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_spi.c \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/_ansi.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/_newlib_version.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/machine/_default_types.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/machine/_types.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/machine/ieeefp.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/math.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/newlib.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/stdint.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/sys/_intsup.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/sys/_stdint.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/sys/_types.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/sys/cdefs.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/sys/config.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/sys/features.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/sys/lock.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/sys/reent.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/lib/gcc/arm-none-eabi/13.3.1/include/stddef.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/lib/gcc/arm-none-eabi/13.3.1/include/stdint.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Core/Inc/stm32h7xx_hal_conf.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/CMSIS/Device/ST/STM32H7xx/Include/stm32h723xx.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/CMSIS/Device/ST/STM32H7xx/Include/stm32h7xx.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/CMSIS/Device/ST/STM32H7xx/Include/system_stm32h7xx.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/CMSIS/Include/cmsis_compiler.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/CMSIS/Include/cmsis_gcc.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/CMSIS/Include/cmsis_version.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/CMSIS/Include/core_cm7.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/CMSIS/Include/mpu_armv7.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_cortex.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_def.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_dma.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_dma_ex.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_exti.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_fdcan.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_flash.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_flash_ex.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_gpio.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_gpio_ex.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_hsem.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_i2c.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_i2c_ex.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_mdma.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_pwr.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_pwr_ex.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc_ex.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_spi.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_spi_ex.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart_ex.h
+
+CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_spi_ex.c.obj: D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_spi_ex.c \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/_ansi.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/_newlib_version.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/machine/_default_types.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/machine/_types.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/machine/ieeefp.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/math.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/newlib.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/stdint.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/sys/_intsup.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/sys/_stdint.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/sys/_types.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/sys/cdefs.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/sys/config.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/sys/features.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/sys/lock.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/sys/reent.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/lib/gcc/arm-none-eabi/13.3.1/include/stddef.h \
+  D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/lib/gcc/arm-none-eabi/13.3.1/include/stdint.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Core/Inc/stm32h7xx_hal_conf.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/CMSIS/Device/ST/STM32H7xx/Include/stm32h723xx.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/CMSIS/Device/ST/STM32H7xx/Include/stm32h7xx.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/CMSIS/Device/ST/STM32H7xx/Include/system_stm32h7xx.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/CMSIS/Include/cmsis_compiler.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/CMSIS/Include/cmsis_gcc.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/CMSIS/Include/cmsis_version.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/CMSIS/Include/core_cm7.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/CMSIS/Include/mpu_armv7.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_cortex.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_def.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_dma.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_dma_ex.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_exti.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_fdcan.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_flash.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_flash_ex.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_gpio.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_gpio_ex.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_hsem.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_i2c.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_i2c_ex.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_mdma.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_pwr.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_pwr_ex.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc_ex.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_spi.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_spi_ex.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart_ex.h
 
@@ -1987,6 +2316,8 @@ CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_pwr_ex.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc_ex.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_spi.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_spi_ex.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart_ex.h
 
@@ -2038,6 +2369,8 @@ CMakeFiles/project.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_e
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_pwr_ex.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc_ex.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_spi.h \
+  D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_spi_ex.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart.h \
   D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart_ex.h
 
@@ -2055,8 +2388,6 @@ D:/RoboMaster/code/XTYF/Standard-2026/project/Core/Src/dma.c:
 D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/newlib.h:
 
 D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/machine/ieeefp.h:
-
-D:/RoboMaster/code/XTYF/Standard-2026/project/Core/Src/stm32h7xx_hal_msp.c:
 
 D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_fdcan.c:
 
@@ -2086,8 +2417,6 @@ D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/math.h:
 
 D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/machine/_default_types.h:
 
-D:/RoboMaster/code/XTYF/Standard-2026/project/Core/Inc/stm32h7xx_it.h:
-
 D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/machine/_types.h:
 
 D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/sys/_types.h:
@@ -2099,8 +2428,6 @@ D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/stdint.h
 D:/RoboMaster/code/XTYF/Standard-2026/project/Core/XTYF/Robot/Task/task.cpp:
 
 D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/sys/_intsup.h:
-
-D:/RoboMaster/code/XTYF/Standard-2026/project/Core/Src/stm32h7xx_it.c:
 
 D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/CMSIS/Include/cmsis_gcc.h:
 
@@ -2164,6 +2491,8 @@ D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/s
 
 D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_def.h:
 
+D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_spi.h:
+
 D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_exti.h:
 
 D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_fdcan.h:
@@ -2186,19 +2515,31 @@ D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Src/s
 
 D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc_ex.h:
 
+D:/RoboMaster/code/XTYF/Standard-2026/project/Core/XTYF/Lib/Device/DR16/dvc_dr16.h:
+
+D:/RoboMaster/code/XTYF/Standard-2026/project/Core/Inc/gpio.h:
+
+D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_spi_ex.h:
+
 D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart_ex.h:
 
 D:/RoboMaster/code/XTYF/Standard-2026/project/Core/Src/fdcan.c:
 
 D:/RoboMaster/code/XTYF/Standard-2026/project/Core/Inc/fdcan.h:
 
-D:/RoboMaster/code/XTYF/Standard-2026/project/Core/XTYF/Lib/Device/DR16/dvc_dr16.h:
-
-D:/RoboMaster/code/XTYF/Standard-2026/project/Core/Inc/gpio.h:
-
 D:/RoboMaster/code/XTYF/Standard-2026/project/Core/Src/main.c:
 
+D:/RoboMaster/code/XTYF/Standard-2026/project/Core/Inc/spi.h:
+
 D:/RoboMaster/code/XTYF/Standard-2026/project/Core/Src/memorymap.c:
+
+D:/RoboMaster/code/XTYF/Standard-2026/project/Core/Src/spi.c:
+
+D:/RoboMaster/code/XTYF/Standard-2026/project/Core/Src/stm32h7xx_hal_msp.c:
+
+D:/RoboMaster/code/XTYF/Standard-2026/project/Core/Src/stm32h7xx_it.c:
+
+D:/RoboMaster/code/XTYF/Standard-2026/project/Core/Inc/stm32h7xx_it.h:
 
 D:/RoboMaster/code/XTYF/Standard-2026/project/Core/Src/syscalls.c:
 
@@ -2253,6 +2594,8 @@ D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/sys/time
 D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/time.h:
 
 D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/lib/gcc/arm-none-eabi/13.3.1/include/stdarg.h:
+
+D:/RoboMaster/code/XTYF/Standard-2026/project/Core/XTYF/Lib/Driver/SPI/drv_spi.cpp:
 
 D:/RoboMaster/code/XTYF/Standard-2026/project/Core/Src/sysmem.c:
 
@@ -2356,6 +2699,8 @@ D:/RoboMaster/code/XTYF/Standard-2026/project/Core/XTYF/Lib/Driver/USART/drv_usa
 
 D:/RoboMaster/code/XTYF/Standard-2026/project/Core/XTYF/Lib/Driver/CAN/drv_can.cpp:
 
+D:/RoboMaster/code/XTYF/Standard-2026/project/Core/XTYF/Lib/Driver/SPI/drv_spi.h:
+
 D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c:
 
 D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c:
@@ -2379,6 +2724,10 @@ D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Src/s
 D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c:
 
 D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c:
+
+D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_spi.c:
+
+D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_spi_ex.c:
 
 D:/RoboMaster/code/XTYF/Standard-2026/project/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c:
 
