@@ -1,5 +1,5 @@
 "D:\CLion 2024.2.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-gcc.exe -DCMAKE_CXX_COMPILER=D:/ClionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-g++.exe -G "MinGW Makefiles" -S D:\RoboMaster\code\XTYF\Standard-2026\project -B D:\RoboMaster\code\XTYF\Standard-2026\project\cmake-build-debug
 -- Minimal optimization, debug info included
 -- Configuring done (0.0s)
--- Generating done (0.1s)
+-- Generating done (0.0s)
 -- Build files have been written to: D:/RoboMaster/code/XTYF/Standard-2026/project/cmake-build-debug

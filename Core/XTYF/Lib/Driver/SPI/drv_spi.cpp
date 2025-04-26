@@ -54,6 +54,7 @@ void SPI_Init(SPI_HandleTypeDef *hspi, SPI_Call_Back Callback_Function)
  * @param GPIOx 片选GPIO引脚编组
  * @param GPIO_Pin 片选GPIO引脚号
  * @param Length 长度
+ *
  * @return uint8_t 执行状态
  */
 uint8_t SPI_Send_Receive_Data(SPI_HandleTypeDef *hspi, GPIO_TypeDef *GPIOx, uint16_t GPIO_Pin, uint16_t Tx_Length, uint16_t Rx_Length)
